@@ -73,7 +73,7 @@ div.hero h2 {
     display: inline-block;
 }
 
-.bottom {
+footer {
     height: 50px;
     background-color: #b4c6f0;
     padding: 40px;
@@ -96,3 +96,4 @@ div.hero h2 {
         margin: 10px;
     }
 }
+
