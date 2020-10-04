@@ -1,5 +1,5 @@
-
-    [
+{
+    "myBudget":[
     {
         "title": "Eat out",
         "budget": 100
@@ -17,17 +17,18 @@
         "budget": 50
     },
     {
-        "title": "University Fee",
+        "title": "Univ Fee",
         "budget": 2500
     },
     {
         "title": "Digital Ocean ",
-        "budget": 10
+        "budget": 1000
     },
     {
         "title": "Pharmacy",
-        "budget":70
+        "budget":170
     }
 
 
 ]
+}

@@ -110,3 +110,9 @@ footer {
   .skip-to-content-link:focus {
     transform: translateY(0%);
   }
+
+  .dchart {
+    text-align: left;
+    border: 0.5px solid blueviolet;
+    padding-right: 0px;
+  }
