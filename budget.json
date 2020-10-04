@@ -1,0 +1,33 @@
+
+    [
+    {
+        "title": "Eat out",
+        "budget": 100
+    },
+    {
+        "title": "Rent",
+        "budget": 350
+    },
+    {
+        "title": "Groceries",
+        "budget":90
+    },
+    {
+        "title": "Recreation",
+        "budget": 50
+    },
+    {
+        "title": "University Fee",
+        "budget": 2500
+    },
+    {
+        "title": "Digital Ocean ",
+        "budget": 10
+    },
+    {
+        "title": "Pharmacy",
+        "budget":70
+    }
+
+
+]
